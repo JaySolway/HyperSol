@@ -2,8 +2,8 @@
 Personal Arch Linux Hyprland environment and apps configuration script, files, and assets.
 
 ## Using Configuration
-Run setup.sh to start setup. Use the `-f` flag to auto confirm all prompts.
-Through the setup you will be prompted to run or skip the following parts of the script
+Run setup.sh to start the configuration process. Use the `-f` flag to auto confirm all prompts.
+Durring the setup you will be prompted to run or skip the following parts of the script
 
 **Setup**
 1. Install official packages using pacman
